@@ -30,7 +30,7 @@
     "build-storybook": "storybook build",
     "test-storybook": "test-storybook",
     "init-msw": "msw init public/",
-    "chromatic": "yarn chromatic --project-token=chpt_db31de52dac9868"
+    "chromatic": "npx chromatic --project-token=chpt_db31de52dac9868"
   },
   "devDependencies": {
     "@storybook/addon-a11y": "^7.4.0",
