@@ -32,7 +32,6 @@ export default function Task({ task: { id, title, state }, onArchiveTask, onPinT
           placeholder="Input title"
           style={{
             textOverflow: 'ellipsis',
-            backgroundColor: 'blue'
           }}
         />
       </label>
